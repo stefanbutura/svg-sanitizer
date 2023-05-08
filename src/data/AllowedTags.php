@@ -93,7 +93,10 @@ class AllowedTags implements TagInterface
             'feTurbulence',
 
             //text
-            '#text'
+            '#text',
+
+            // Animation
+            'animate',
         );
     }
 }

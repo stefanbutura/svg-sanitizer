@@ -351,6 +351,19 @@ class AllowedAttributes implements AttributeInterface
             'xlink:title',
             'xml:space',
             'xmlns:xlink',
+
+            // Animate
+            'attributeType',
+            'attributeName',
+            'calcMode',
+            'keySplines',
+            'begin',
+            'dur',
+            'from',
+            'restart',
+            'to',
+            'keyTimes',
+            'repeatCount',
         );
     }
 }
